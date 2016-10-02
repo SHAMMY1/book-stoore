@@ -1,0 +1,24 @@
+{
+  "name": "team-namor",
+  "version": "1.0.0",
+  "description": "Telerik Software Academy Team Work - JS Applications ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/app.js",
+    "test" : "start chrome http://127.0.0.1:8080/test/tests.html && http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "jquery": "^3.1.0",
+    "nedb": "^1.8.0",
+    "systemjs": "^0.19.38",
+    "systemjs-plugin-babel": "0.0.15",
+    "validate-obj": "^0.8.5",
+    "validator": "^6.0.0"
+  }
+}
