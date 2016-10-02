@@ -2,7 +2,7 @@
   "name": "team-namor",
   "version": "1.0.0",
   "description": "Telerik Software Academy Team Work - JS Applications ",
-  "main": "index.js",
+  "main": "app/app.js",
   "scripts": {
     "start": "node app/app.js",
     "test" : "start chrome http://127.0.0.1:8080/test/tests.html && http-server"
