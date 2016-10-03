@@ -22,5 +22,8 @@
     "validate-obj": "^0.8.5",
     "validator": "^6.0.0",
     "bower": "1.6.5"
+  },
+  "engines":{
+    "node": "6.5.0"
   }
 }
